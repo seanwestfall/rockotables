@@ -1,4 +1,4 @@
-![Rocko Tables](https://github.com/seanwestfall/rockotables/blob/master/img/rocko-title.png)
+![Rocko Tables](https://raw.githubusercontent.com/seanwestfall/rockotables/master/img/rocko-title.png)
 
 Efficient React Tables that fix common issues with oversized tables.  
 
